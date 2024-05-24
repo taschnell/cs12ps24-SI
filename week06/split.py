@@ -12,3 +12,4 @@ print("Split fruits:", fruits_list)
 sentence = "I like to eat apples, bananas, and oranges."
 words_with_limit = sentence.split(" ", 4)
 print("Split words with limit:", words_with_limit)
+

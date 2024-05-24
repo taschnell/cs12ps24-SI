@@ -21,3 +21,14 @@ set_time = measure_time(my_set, n)
 print(f"Time taken for list membership check: {list_time} seconds")
 print(f"Time taken for set membership check: {set_time} seconds")
 print(f"Set is {list_time / set_time:.2f} times faster than list for membership check")
+
+
+
+x = [1.2,3,34,4,5,5,6,5,4]
+
+y = iter(x)
+
+for y in x:
+    if x == 2: 
+      next(x)
+    
