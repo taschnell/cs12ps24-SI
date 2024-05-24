@@ -1,2 +1,2 @@
-# cs12ps24-SI-Example-Code
-The Code I use for examples as SI Leader for CS 12P at Cabrillo College.
+# cs12ps24-SI
+The Code I use for examples as SI Leader for CS 12P at Cabrillo College. --> dont plagiarize, Jeff will catch you
